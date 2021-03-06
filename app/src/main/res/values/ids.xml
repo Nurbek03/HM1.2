@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edtTxt1" type="id" />
+    <item name="edtTxt2" type="id" />
+    <item name="edtTxt3" type="id" />
+    <item name="btn" type="id" />
+    <item name="txtView" type="id" />
+</resources>
